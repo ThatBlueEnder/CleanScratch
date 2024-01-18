@@ -1,19 +1,19 @@
-!scratch.mit.edu###footer
-!scratch.mit.edu###donor
-!scratch.mit.edu##:not(:matches-path(/messages)):not(:matches-path(/projects))#view
-!scratch.mit.edu##:matches-path(/search)#view
-!scratch.mit.edu##:matches-path(/explore)#view
-!scratch.mit.edu##.explore
-!scratch.mit.edu##.ideas
-!scratch.mit.edu##.about
-!scratch.mit.edu##.search
-!scratch.mit.edu##.logo
-!scratch.mit.edu##.ideas
-!scratch.mit.edu##.site-nav > li:has-text(Explore)
-!scratch.mit.edu##.site-nav > li:has-text(Ideas)
-!scratch.mit.edu##.site-nav > li:has-text(About)
-!scratch.mit.edu##.banner
-!scratch.mit.edu##:matches-path(/cloudmonitor)#content
-!scratch.mit.edu##:matches-path(/discuss)#content
-!scratch.mit.edu###alert-view
-!scratch.mit.edu##.banner-outer
+scratch.mit.edu###footer
+scratch.mit.edu###donor
+scratch.mit.edu##:not(:matches-path(/messages)):not(:matches-path(/projects))#view
+scratch.mit.edu##:matches-path(/search)#view
+scratch.mit.edu##:matches-path(/explore)#view
+scratch.mit.edu##.explore
+scratch.mit.edu##.ideas
+scratch.mit.edu##.about
+scratch.mit.edu##.search
+scratch.mit.edu##.logo
+scratch.mit.edu##.ideas
+scratch.mit.edu##.site-nav > li:has-text(Explore)
+scratch.mit.edu##.site-nav > li:has-text(Ideas)
+scratch.mit.edu##.site-nav > li:has-text(About)
+scratch.mit.edu##.banner
+scratch.mit.edu##:matches-path(/cloudmonitor)#content
+scratch.mit.edu##:matches-path(/discuss)#content
+scratch.mit.edu###alert-view
+scratch.mit.edu##.banner-outer
