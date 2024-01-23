@@ -7,7 +7,6 @@ scratch.mit.edu##.explore
 scratch.mit.edu##.ideas
 scratch.mit.edu##.about
 scratch.mit.edu##.search
-scratch.mit.edu##.logo
 scratch.mit.edu##.ideas
 scratch.mit.edu##.site-nav > li:has-text(Explore)
 scratch.mit.edu##.site-nav > li:has-text(Ideas)
@@ -17,3 +16,6 @@ scratch.mit.edu##:matches-path(/cloudmonitor)#content
 scratch.mit.edu##:matches-path(/discuss)#content
 scratch.mit.edu###alert-view
 scratch.mit.edu##.banner-outer
+scratch.mit.edu##button[aria-label^="Upload"]
+scratch.mit.edu##li > span:has-text(computer)
+scratch.mit.edu##div > div[aria-label="Tutorials"]
