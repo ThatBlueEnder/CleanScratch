@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         auto save
-// @match        *://scratch.mit.edu/projects/*/editor/*
+// @match        *://scratch.mit.edu/*
 // @grant        GM_addStyle
 // ==/UserScript==
 (new MutationObserver(check)).observe(document, {childList: true, subtree: true});
