@@ -22,3 +22,5 @@ scratch.mit.edu##div > div[aria-label="Tutorials"]
 scratch.mit.edu##.mod-user-join
 scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
 impact.codeninjas.com##.login-at-home
+kahoot.it##footer
+kahoot.it##[class^=language-picker]
