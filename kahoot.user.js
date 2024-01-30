@@ -3,6 +3,7 @@
 // @match        *://scratch.mit.edu/*
 // @match        *://impact.codeninjas.com/*
 // @version      1.0
+// @noframes
 // @downloadURL  https://github.com/ThatBlueEnder/CleanScratch/raw/main/kahoot.user.js
 // ==/UserScript==
 document.body.insertAdjacentHTML('beforeend', '<iframe id="kahoot-tab" src="https://kahoot.it/" style=" all: initial; display: none; z-index: 9999; position: fixed; left: 32px;  top: 32px;  border-radius: 8px;width: calc(100vw - 64px);height: calc(100vh - 64px);"></iframe>');
