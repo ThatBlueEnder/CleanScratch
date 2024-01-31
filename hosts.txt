@@ -24,3 +24,5 @@ scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
 impact.codeninjas.com##.login-at-home
 kahoot.it##footer
 kahoot.it##[class^=language-picker]
+kahoot.it##[class^=game-logo]
+kahoot.it##[class^=background-shapes]
