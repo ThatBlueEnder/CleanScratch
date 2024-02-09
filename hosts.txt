@@ -26,3 +26,5 @@ kahoot.it##footer
 kahoot.it##[class^=language-picker]
 kahoot.it##[class^=game-logo]
 kahoot.it##[class^=background-shapes]
+dojo.code.ninja##.facility-info
+dojo.code.ninja##[href="/stafflogin"]
