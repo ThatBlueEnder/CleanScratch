@@ -16,11 +16,10 @@ scratch.mit.edu##:matches-path(/cloudmonitor)#content
 scratch.mit.edu##:matches-path(/discuss)#content
 scratch.mit.edu###alert-view
 scratch.mit.edu##.banner-outer
-scratch.mit.edu##button[aria-label^="Upload"]
-scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
+! scratch.mit.edu##button[aria-label^="Upload"]
+! scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
 scratch.mit.edu##div > div[aria-label="Tutorials"]
 scratch.mit.edu##.mod-user-join
-scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
 impact.codeninjas.com##.login-at-home
 kahoot.it##footer
 kahoot.it##[class^=language-picker]
