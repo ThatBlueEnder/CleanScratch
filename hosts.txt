@@ -27,3 +27,18 @@ kahoot.it##[class^=game-logo]
 kahoot.it##[class^=background-shapes]
 dojo.code.ninja##.facility-info
 dojo.code.ninja##[href="/stafflogin"]
+userpxt.io##.game-player-msft
+makecode.com###downloadArea
+makecode.com###projectNameArea
+makecode.com##.gallerysegment:not(.mystuff-segment)
+makecode.com##.hero
+makecode.com##.homefooter
+makecode.com##.menu.right *
+makecode.com##.organization
+makecode.com##.common-modal-help
+makecode.com##.common-extension-card-extra-content
+makecode.com##.import-button
+makecode.com##.screenshot-button
+makecode.com##.blocklyMenuItem:has-text(Snapshot)
+makecode.com##.import-dialog-btn
+makecode.com##.editorExport
