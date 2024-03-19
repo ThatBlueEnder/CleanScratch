@@ -42,3 +42,4 @@ makecode.com##.screenshot-button
 makecode.com##.blocklyMenuItem:has-text(Snapshot)
 makecode.com##.import-dialog-btn
 makecode.com##.editorExport
+makecode.com###sidedocsbar
