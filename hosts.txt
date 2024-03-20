@@ -48,6 +48,7 @@ makecode.com##.social-button
 makecode.com##.kiosk.link-button
 makecode.com##.editortools-github-btn
 makecode.com##.importdialog .card:has(.github)
+makecode.com###docs a
 ! airtight
 ! makecode.com###downloadArea
 ! makecode.com###projectNameArea
