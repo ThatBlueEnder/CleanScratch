@@ -28,18 +28,27 @@ kahoot.it##[class^=background-shapes]
 dojo.code.ninja##.facility-info
 dojo.code.ninja##[href="/stafflogin"]
 userpxt.io##.game-player-msft
-makecode.com###downloadArea
-makecode.com###projectNameArea
 makecode.com##.gallerysegment:not(.mystuff-segment)
 makecode.com##.hero
 makecode.com##.homefooter
-makecode.com##.menu.right *
-makecode.com##.organization
+makecode.com###mainmenu > .left *
 makecode.com##.common-modal-help
 makecode.com##.common-extension-card-extra-content
 makecode.com##.import-button
 makecode.com##.screenshot-button
 makecode.com##.blocklyMenuItem:has-text(Snapshot)
-makecode.com##.import-dialog-btn
 makecode.com##.editorExport
 makecode.com###sidedocsbar
+makecode.com##.hardwaredialog .extra
+makecode.com##.hardwaredialog > .content > :last-child
+makecode.com##.sign-in-dropdown
+makecode.com##[aria-label="Dropdown menu More..."] > *:not(:has-text(Reset)):not(:has-text(Delete))
+makecode.com##.help-dropdown-menuitem
+makecode.com##.social-button
+makecode.com##.kiosk.link-button
+makecode.com##.editortools-github-btn
+makecode.com##.importdialog .card:has(.github)
+! airtight
+! makecode.com###downloadArea
+! makecode.com###projectNameArea
+! makecode.com##.importdialog .card:has(.upload)
