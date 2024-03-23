@@ -53,9 +53,9 @@ makecode.com###docs a
 makecode.com##.action-item:last-child
 makecode.com##.action-item:nth-last-child(2)
 ! airtight
-! makecode.com###downloadArea
-! makecode.com###projectNameArea
-! makecode.com##.importdialog .card:has(.upload)
+makecode.com###downloadArea
+makecode.com###projectNameArea
+makecode.com##.importdialog .card:has(.upload)
 ! end of airtight
 
 microbit.org##.gallerysegment:not(.mystuff-segment)
