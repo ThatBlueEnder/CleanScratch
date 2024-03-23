@@ -49,7 +49,39 @@ makecode.com##.kiosk.link-button
 makecode.com##.editortools-github-btn
 makecode.com##.importdialog .card:has(.github)
 makecode.com###docs a
+makecode.com##.action-item:last-child
+makecode.com##.action-item:nth-last-child(2)
 ! airtight
 ! makecode.com###downloadArea
 ! makecode.com###projectNameArea
 ! makecode.com##.importdialog .card:has(.upload)
+! end of airtight
+
+microbit.org##.gallerysegment:not(.mystuff-segment)
+microbit.org##.hero
+microbit.org##.homefooter
+microbit.org###mainmenu > .left *
+microbit.org##.common-modal-help
+microbit.org##.common-extension-card-extra-content
+microbit.org##.import-button
+microbit.org##.screenshot-button
+microbit.org##.blocklyMenuItem:has-text(Snapshot)
+microbit.org##.editorExport
+microbit.org###sidedocsbar
+microbit.org##.hardwaredialog .extra
+microbit.org##.hardwaredialog > .content > :last-child
+microbit.org##.sign-in-dropdown
+microbit.org##[aria-label="Dropdown menu More..."] > *:not(:has-text(Reset)):not(:has-text(Delete))
+microbit.org##.help-dropdown-menuitem
+microbit.org##.social-button
+microbit.org##.kiosk.link-button
+microbit.org##.editortools-github-btn
+microbit.org##.importdialog .card:has(.github)
+microbit.org###docs a
+microbit.org##.action-item:last-child
+microbit.org##.action-item:nth-last-child(2)
+! airtight
+microbit.org###downloadArea
+microbit.org###projectNameArea
+microbit.org##.importdialog .card:has(.upload)
+! end of airtight
