@@ -75,7 +75,7 @@ microbit.org##.sign-in-dropdown
 microbit.org##[aria-label="Dropdown menu More..."] > *:not(:has-text(Reset)):not(:has-text(Delete))
 microbit.org##.help-dropdown-menuitem
 microbit.org##.social-button
-makecode.com##.device-share
+microbit.org##.device-share
 microbit.org##.kiosk.link-button
 microbit.org##.editortools-github-btn
 microbit.org##.importdialog .card:has(.github)
