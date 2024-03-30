@@ -83,7 +83,12 @@ microbit.org###docs a
 microbit.org##.action-item:last-child
 microbit.org##.action-item:nth-last-child(2)
 ! airtight
-microbit.org###downloadArea
 microbit.org###projectNameArea
 microbit.org##.importdialog .card:has(.upload)
 ! end of airtight
+microbit.org##[aria-label="Dropdown menu Download options"] [aria-label="Help"]
+microbit.org##[aria-label="Dropdown menu Download options"] [aria-label="Download"]
+microbit.org##[aria-label="Dropdown menu Download options"] [aria-label="Disconnect"]
+microbit.org##[aria-label="Dropdown menu Download options"] [aria-label="Download as File"]
+microbit.org##.help
+microbit.org##.download-button:not(.connected)
