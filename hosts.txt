@@ -58,6 +58,7 @@ makecode.com###projectNameArea
 makecode.com##.importdialog .card:has(.upload)
 ! end of airtight
 makecode.com##.blockHelp
+makecode.com##.blocklyMenuItem:has-text(Help)
 
 microbit.org##.gallerysegment:not(.mystuff-segment)
 microbit.org##.hero
@@ -94,3 +95,4 @@ microbit.org##[aria-label="Dropdown menu Download options"] [aria-label="Downloa
 microbit.org##.help
 microbit.org##.download-button:not(.connected)
 microbit.org##.blockHelp
+microbit.org##.blocklyMenuItem:has-text(Help)
