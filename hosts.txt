@@ -20,6 +20,7 @@ scratch.mit.edu##.banner-outer
 ! scratch.mit.edu##li[class^="menu_menu"]:has-text(computer)
 scratch.mit.edu##div > div[aria-label="Tutorials"]
 scratch.mit.edu##.mod-user-join
+scratch.mit.edu##body > [id^=page] :has(> a)
 impact.codeninjas.com##.login-at-home
 kahoot.it##footer
 kahoot.it##[class^=language-picker]
