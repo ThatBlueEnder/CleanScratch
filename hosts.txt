@@ -22,7 +22,7 @@ scratch.mit.edu##div > div[aria-label="Tutorials"]
 scratch.mit.edu##.mod-user-join
 scratch.mit.edu##body > [id^=page-] :has(> a)
 impact.codeninjas.com##.login-at-home
-impact.codeninjas.com##[aria-label="My Stuff"]
+! impact.codeninjas.com##[aria-label="My Stuff"] get rid of making stuff in tab
 impact.codeninjas.com##[aria-label="Community"]
 impact.codeninjas.com##[aria-label="Sandbox"]
 kahoot.it##footer
