@@ -1,3 +1,4 @@
+! Expires: 4 hours
 scratch.mit.edu###footer
 scratch.mit.edu###donor
 scratch.mit.edu##:not(:matches-path(/messages)):not(:matches-path(/projects))#view
