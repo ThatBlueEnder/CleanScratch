@@ -26,6 +26,7 @@ impact.codeninjas.com##.login-at-home
 impact.codeninjas.com##[aria-label="My Stuff"]
 impact.codeninjas.com##[aria-label="Community"]
 impact.codeninjas.com##[aria-label="Sandbox"]
+impact.codeninjas.com##[aria-label="Playtest"]
 kahoot.it##footer
 kahoot.it##[class^=language-picker]
 kahoot.it##[class^=game-logo]
